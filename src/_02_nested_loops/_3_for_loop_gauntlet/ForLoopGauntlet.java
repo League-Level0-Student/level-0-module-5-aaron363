@@ -49,14 +49,14 @@ public class ForLoopGauntlet {
 			//}
 		//}
 		
-		String row = "";
-		for(int i = 1; i < 4; i++) {
-			row = "";
-			for(int j = 1; j < 4; j++) {
-				row += j*i + " ";
-			}
-			System.out.println(row);
-		}
+		//String row = "";
+		//for(int i = 1; i < 4; i++) {
+			//row = "";
+			//for(int j = 1; j < 4; j++) {
+				//row += j*i + " ";
+			//}
+			//System.out.println(row);
+		//}
 
 	}
 
